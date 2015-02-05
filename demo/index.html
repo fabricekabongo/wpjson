@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <button onclick="k();"> hello world</button>
+        <div id="content">
+        </div>
+        <script type="text/javascript" src="../libs/wpjson.js"></script>
+        <script type="text/javascript">
+            wpj = new wpjson("http://www.congobuzz.com");
+            function k() {
+                wpj.fetchPosts(wpj.METHOD_RECENT_POST, 1, function(result) {
+                    content = document.querySelector("#content");
+                    content.innerHTML = "<strong>" + result.status + "</strong>";
+                });
+            }
+        </script>
+    </body>
+</html>
