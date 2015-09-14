@@ -35,3 +35,7 @@ there are new method coming, for more information watch the evolution of [the mi
 This project is under the apache license.
 
 Find the [license here](https://github.com/fabricekabongo/wpjson/blob/master/LICENSE.MD)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fabricekabongo/wpjson/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
