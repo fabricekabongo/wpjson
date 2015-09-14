@@ -1,6 +1,7 @@
 # wpjson
-a library that help to fetch wordpress blog that has [JSON API plugin](https://wordpress.org/plugins/json-api/) installed on it.
 
+a library that help to fetch wordpress blog that has [JSON API plugin](https://wordpress.org/plugins/json-api/) installed on it.
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fabricekabongo/wpjson/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 ## installation
 
 *will be soon added to bower, see [issue 13](https://github.com/fabricekabongo/wpjson/issues/13)*
@@ -35,7 +36,4 @@ there are new method coming, for more information watch the evolution of [the mi
 This project is under the apache license.
 
 Find the [license here](https://github.com/fabricekabongo/wpjson/blob/master/LICENSE.MD)
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fabricekabongo/wpjson/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
